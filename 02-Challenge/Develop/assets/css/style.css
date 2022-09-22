@@ -90,7 +90,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+ /* combined benefit-brand and benefit-cost with benefit-lead*/
 h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -101,7 +101,7 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
-
+ /*combined repetitive lines*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
